@@ -120,11 +120,14 @@ Publicada em junho de 2019, a EAA estende as obrigações de acessibilidade para
 
 ---
 
-## O que Ainda Falta Pesquisar
+## Indenizações ADA
+A ADA não é uma lei de indenização, ela é uma lei de direitos civis. Então temos duas distinções para que aconteçam as indenizações:
 
-`[PENDENTE]` — O único item que permanece sem dados suficientes:
+**1. Multas civis (civil penalties)** — cobradas pelo governo federal via DOJ.
+O Departamento de Justiça pode impor multas civis de até US$ 75.000 para a primeira violação e até US$ 150.000 para violações subsequentes.
 
-- Valores médios de indenizações e acordos em processos ADA digitais (requer acesso a relatórios específicos de escritórios especializados)
+**2. Indenizações em processos privados** — movidos por indivíduos
+Aqui está o detalhe crucial: sob o Título III da ADA, as multas pesadas são apenas parte das penalidades por não conformidade. Em processos privados, a ADA em si não prevê indenização por danos financeiros, o autor geralmente só pode pedir medidas corretivas (o site ser consertado). Os valores altos que você vê em notícias vêm de acordos extrajudiciais ou de leis estaduais combinadas.
 
 ---
 
