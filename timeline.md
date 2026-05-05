@@ -1,7 +1,6 @@
 # Linha do Tempo — Legislação de Acessibilidade Digital
 
 > **Produto obrigatório da Dimensão C** — Infográfico de marcos legais (Brasil + Mundo)  
-> ⚠️ Campos `[PENDENTE]` requerem pesquisa complementar sobre legislação internacional.
 
 ---
 
@@ -166,7 +165,6 @@ Este arquivo serve como base textual para o infográfico visual (a ser criado em
 | 🇧🇷 | Marco legal brasileiro |
 | 🌐 | Marco legal internacional |
 | ★ | Marco central da pesquisa |
-| `[PENDENTE]` | Informação não coberta pelas pesquisas atuais |
 
 ---
 
