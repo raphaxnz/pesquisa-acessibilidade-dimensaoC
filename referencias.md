@@ -43,11 +43,11 @@
 
 ## Fontes de Pesquisa Interna (DAD 2026)
 
-11. Aluno 1. *Pesquisa sobre LBI — Lei Brasileira de Inclusão: evolução, objetivos e impactos sociais*. DAD 2026 — Instituto J&F.
+11. *Pesquisa sobre LBI — Lei Brasileira de Inclusão: evolução, objetivos e impactos sociais*. DAD 2026 — Instituto J&F.
 
-12. [PENDENTE: Autoria]. *Legislação de Acessibilidade Digital e Conformidade Regulatória em Fintechs*. DAD 2026 — Instituto J&F.
+12. *Legislação de Acessibilidade Digital e Conformidade Regulatória em Fintechs*. DAD 2026 — Instituto J&F.
 
-13. [PENDENTE: Autoria]. *ADA — Americans with Disabilities Act*. DAD 2026 — Instituto J&F.
+13. *ADA — Americans with Disabilities Act*. DAD 2026 — Instituto J&F.
 
 ---
 

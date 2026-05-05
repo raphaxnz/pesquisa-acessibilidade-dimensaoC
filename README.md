@@ -127,6 +127,6 @@ npx lighthouse https://seu-site.com \
 | 5 | ONU | Convention on the Rights of Persons with Disabilities | 2006 | https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html |
 | 6 | Presidência da República (Brasil) | Decreto nº 9.406/2018 | 2018 | https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9406.htm |
 | 7 | Presidência da República (Brasil) | Lei nº 8.078/1990 — Código de Defesa do Consumidor | 1990 | https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm |
-| 8 | Aluno 1 (Pesquisa interna) | Pesquisa sobre LBI — Lei Brasileira de Inclusão | 2026 | — |
-| 9 | Aluno [PENDENTE] (Pesquisa interna) | Legislação de Acessibilidade em Fintechs | 2026 | — |
+| 8 | Aluno (Pesquisa interna) | Pesquisa sobre LBI — Lei Brasileira de Inclusão | 2026 | — |
+| 9 | Aluno (Pesquisa interna) | Legislação de Acessibilidade em Fintechs | 2026 | — |
 | 10 | U.S. Department of Justice | Guidance on Web Accessibility and the ADA | 2022 | https://www.ada.gov/resources/web-guidance/ |
